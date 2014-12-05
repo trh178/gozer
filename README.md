@@ -5,7 +5,7 @@ gozer
 
 Prototype mesos framework using new low-level API built in Go.
 
-Building
+Buildininsert some stuff hereg
 --------
 
 This code is part of the greater [golang](http://golang.org/) community.  It can be retrieved, compiled, tested, and installed using the `go` tool.  In order to use this, you will need a correctly setup `golang` [environment](http://golang.org/doc/code.html).
